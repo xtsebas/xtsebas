@@ -3,9 +3,6 @@
 Now you can visit my portfolio
 
 ## [Xtsebas](https://sebastianhuertas.netlify.app/)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gagyfpmlv253v7nok5nqincl3a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31gagyfpmlv253v7nok5nqincl3a&redirect=true)
-
 <!--
 **xtsebas/xtsebas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
