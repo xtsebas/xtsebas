@@ -14,7 +14,7 @@
 <a href="mailto:thiagohugo2018@gmail.com">
   <img src="https://img.shields.io/badge/Email-thiagohugo2018@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://[linkedin.com/in/sebastian-huertas](https://www.linkedin.com/in/xtsebas/)" target="_blank">
+<a href="https://www.linkedin.com/in/xtsebas/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -98,7 +98,7 @@ I take full ownership of delivery — from architecture decisions and database d
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Xtsebas&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Xtsebas&theme=tokyonight&hide_border=true" />
 
 </div>
 
