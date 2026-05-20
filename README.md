@@ -111,16 +111,6 @@ I take full ownership of delivery — from architecture decisions and database d
 
 ---
 
-### Experience
-
-| Role | Company |
-|---|---|
-| Full Stack Developer & AI Engineer | DRR Innova |
-| Web Developer | Fantastech |
-| Junior Web Developer | Teknovate |
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Xtsebas&color=6E57F7&style=flat-square&label=Profile+Views" />
 </div>
